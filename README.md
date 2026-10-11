@@ -71,7 +71,7 @@ service-booking-platform/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/service-booking-platform.git
+git clone https://github.com/samri1225/service-booking-platform.git
 cd service-booking-platform
 
 # Backend setup
