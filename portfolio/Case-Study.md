@@ -3,9 +3,9 @@
 
 ---
 
-**Developer:** [YOUR FULL NAME]
+**Developer:** [Samrawit Hailemariam]
 **Role:** Full-Stack Developer
-**Timeline:** [e.g., August – October 2026]
+**Timeline:** [ August – October 2026]
 **Type:** Personal Project
 **Status:** Live in Production
 
@@ -121,7 +121,7 @@ As the sole developer, I was responsible for:
 ### 📅 Availability Management
 
 ![Availability Manager](./screenshots/availability.png)
-![Availability Manager](./screenshots/availability1.png)
+
 - Weekly schedule (Monday–Sunday)
 - Custom working hours per day
 - Block specific dates (holidays, time off)
@@ -278,30 +278,30 @@ User Roles	3
 Project Duration	2 months
 Total Deployment Cost	$0 (all free tiers)
 
-## 📸 Full Screenshot Gallery
+ 📸 Full Screenshot Gallery
 
-### Login Page
+ Login Page
 ![Login](./screenshots/login.png)
 
-### Register Page
+ Register Page
 ![Register](./screenshots/register.png)
 
-### Customer Dashboard
+ Customer Dashboard
 ![Customer Dashboard](./screenshots/customer-dashboard.png)
 
-### Service Listings
+ Service Listings
 ![Services](./screenshots/service-listing.png)
 
-### Service Details with Reviews
+ Service Details with Reviews
 ![Service Details](./screenshots/service-details.png)
 
-### Provider Dashboard
+ Provider Dashboard
 ![Provider Dashboard](./screenshots/provider-dashboard.png)
 
-### Admin Dashboard
+ Admin Dashboard
 ![Admin Dashboard](./screenshots/admin-dashboard.png)
 
-### Availability Manager
+ Availability Manager
 ![Availability](./screenshots/availability.png)
 
 See screenshots/ folder for all UI captures.
