@@ -120,7 +120,7 @@ As the sole developer, I was responsible for:
 
 ### 📅 Availability Management
 
-![Availability Manager](./screenshots/availability.png)
+![Availability Manager](./screenshots/avialability.png)
 
 - Weekly schedule (Monday–Sunday)
 - Custom working hours per day
